@@ -1,0 +1,39 @@
+{
+  "_id": "soogxX5CNcc8K1iS",
+  "createdAt": 1646412636727,
+  "modifiedAt": 1651188152623,
+  "lastSaved": 1651188152621,
+  "settings": {
+    "name": "BasicApp",
+    "description": "No description given",
+    "development": {
+      "type": "Local",
+      "url": "https://basicapp_.aptugo.com",
+      "folder": "BasicApp",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "http://127.0.0.1:4567",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/josemaria",
+      "variables": ""
+    },
+    "stagging": {
+      "type": "Local",
+      "url": "https://basicapp_.aptugo.com",
+      "folder": "BasicApp_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://BasicApp.aptugo.com:3456",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/",
+      "variables": ""
+    },
+    "production": {
+      "type": "Remote (Aptugo)",
+      "url": "https://josemaria.aptugo.app",
+      "folder": "BasicApp",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "apiURL": "https://josemaria.backend.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/josemaria",
+      "variables": ""
+    },
+    "lastSaved": null,
+    "lastBuild": null
+  }
+}

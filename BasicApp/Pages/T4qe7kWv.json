@@ -1,0 +1,17 @@
+{
+  "name": "Body",
+  "unique_id": "T4qe7kWv",
+  "parent": "QpE0d5zE",
+  "path": "b.tpl",
+  "completePath": "elements/Aptugo Internal Use/b.tpl",
+  "collapseStatus": "expand",
+  "cascades": true,
+  "type": "element",
+  "value": "b",
+  "values": {
+    "className": [
+      "theme.pages",
+      "theme.basicApp"
+    ]
+  }
+}

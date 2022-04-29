@@ -1,0 +1,34 @@
+[
+  {
+    "type": "stylesheet",
+    "id": "BTGp0Wqu",
+    "name": "clase9.module.scss",
+    "errored": false,
+    "fileContents": "@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap'); //Import Font\n\n.socials {\n    display: flex;\n    flex-direction: row;\n    gap: 30px;\n}\n\n.basicApp {\n    background-color: #E2F0E4;\n    //height: 100%;\n    & .basicCard {\n        display: flex;\n        flex-direction: column;\n        background: #FFFFFF;\n        border-radius: 20px;\n        width: 1240px;\n        margin: 250px auto 125px;\n        & .basicCardHeader {\n            position: relative;\n            display: flex;\n            flex-direction: column;\n            align-items: center;\n            & picture {\n                position: absolute;\n                top: -111px;\n            }\n            & h2 {\n                font-style: normal;\n                font-weight: bold;\n                font-size: 45px;\n                line-height: 132.8%;\n                text-align: center;\n                color: #000000;\n                padding: 145px 0 95px;\n            }\n        }\n        & .basicCardServicios {\n            display: flex;\n            flex-direction: column;\n            gap: 120px;\n            padding: 0 80px 200px;\n            & .basicCardServicio {\n                display: flex;\n                flex-direction: row;\n                align-items: center;\n                justify-content: space-between;\n                & img {\n                    filter: drop-shadow(8px 10px 19px rgba(0, 0, 0, 0.25));\n                    border-radius: 20px;\n                }\n                & .basicCardServicioInfo {\n                    width: 515px;\n                    & h4 {\n                        font-style: normal;\n                        font-weight: bold;\n                        font-size: 20px;\n                        line-height: 132.8%;\n                        color: #6B2D06;\n                        padding: 0 0 22px;\n                    }\n                    & h5 {\n                        font-style: normal;\n                        font-weight: normal;\n                        font-size: 17px;\n                        line-height: 132.4%;\n                        color: #0D1D2A;\n                    }\n                }\n            }\n        }\n        & div[class*=\"socials\"] {margin: 0 auto 75px;}\n    }\n    & > h6 {\n        font-style: normal;\n        font-weight: normal;\n        font-size: 17px;\n        line-height: 132.4%;\n        color: #0D1D2A;\n        text-align: center;\n        margin: auto;\n        padding: 0 0 125px;\n    }\n}\n"
+  },
+  {
+    "type": "image",
+    "id": "WJmV358H",
+    "name": "facebookLogoBrown.svg"
+  },
+  {
+    "type": "image",
+    "id": "okkwoA5S",
+    "name": "instagramLogoBrown.svg"
+  },
+  {
+    "type": "image",
+    "id": "upkAqW32",
+    "name": "linkedinLogoBrown.svg"
+  },
+  {
+    "type": "image",
+    "id": "DDSgqkC7",
+    "name": "whatsappLogoBrown.svg"
+  },
+  {
+    "type": "image",
+    "id": "qkyytEBp",
+    "name": "mateCode.png"
+  }
+]

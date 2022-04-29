@@ -1,0 +1,14 @@
+{
+  "name": "Header",
+  "unique_id": "mI4bNaTK",
+  "parent": "pTqD8LT2",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.basicCardHeader"
+  }
+}

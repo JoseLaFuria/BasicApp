@@ -1,0 +1,14 @@
+{
+  "name": "Basic Card",
+  "unique_id": "pTqD8LT2",
+  "parent": "T4qe7kWv",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "expand",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.basicCard"
+  }
+}

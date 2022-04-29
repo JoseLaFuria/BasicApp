@@ -1,0 +1,14 @@
+{
+  "name": "Info",
+  "unique_id": "6kPF9TOh",
+  "parent": "tv0FeTBx",
+  "path": "div.tpl",
+  "completePath": "elements/Basic/div.tpl",
+  "collapseStatus": "collapse",
+  "cascades": false,
+  "type": "element",
+  "value": "div",
+  "values": {
+    "class": "theme.basicCardServicioInfo"
+  }
+}
